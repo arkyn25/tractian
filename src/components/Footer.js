@@ -84,19 +84,18 @@ const Footer = () => {
         </div>
         <div class="flex flex-col col-span-1 mb-12 lg:mb-0 lg:mt-12 2xl:mt-0">
           <h3 class="uppercase mb-6 font-semibold text-center pt-8	"> Conecte-se com a TRACTIAN</h3>
-          <div class="flex justify-around	pb-8" >
+          <div class="flex justify-evenly	pb-8" >
             <a href="https://www.linkedin.com/company/tractian/" target="_blank" class="mr-6" rel="noreferrer">
-              <img src="https://imgix.tractian.com/images/linkedin.png?auto=format&fit=max&w=64" alt="Linkedin Tractian" class="object-contain"/>
+              <img src="https://imgix.tractian.com/images/linkedin.png?auto=format&fit=max&w=64" alt="Linkedin Tractian" class="object-contain w-7"/>
             </a>
             <a href="https://www.facebook.com/tractian" target="_blank" rel="noreferrer" class="mr-6">
-              <img src="https://imgix.tractian.com/images/facebook.png?auto=format&fit=max&w=64" alt="Facebook da Tractian" class="object-contain" />
+              <img src="https://imgix.tractian.com/images/facebook.png?auto=format&fit=max&w=64" alt="Facebook da Tractian" class="object-contain w-7" />
             </a>
             <a href="https://www.instagram.com/tractian/" target="_blank" rel="noreferrer">
-              <img src="https://imgix.tractian.com/images/instagram.png?auto=format&fit=max&w=64" alt="Instagram da Tractian"  class="object-contain"/>
+              <img src="https://imgix.tractian.com/images/instagram.png?auto=format&fit=max&w=64" alt="Instagram da Tractian"  class="object-contain w-7"/>
             </a>
-            <span> </span>
             <a href="https://youtube.com/c/TRACTIAN" target="_blank" rel="noreferrer">
-              <img src="https://imgix.tractian.com/images/youtube.png?auto=format&fit=max&w=64" alt="Youttube da Tractian" class="object-contain"/>
+              <img src="https://imgix.tractian.com/images/youtube.png?auto=format&fit=max&w=64" alt="Youttube da Tractian" class="object-contain w-7"/>
             </a>
           </div>
         </div>
